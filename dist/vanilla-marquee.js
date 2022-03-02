@@ -701,4 +701,4 @@ class marquee {
 
 }
 
-export default marquee;
+export { marquee as default };
