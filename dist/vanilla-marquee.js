@@ -701,4 +701,4 @@ class marquee {
 
 }
 
-export default marquee;
+module.exports = marquee;
